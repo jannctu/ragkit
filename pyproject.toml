@@ -1,6 +1,8 @@
 [project]
 name = "ragkitx"
 version = "0.1.1"
+readme = "README.md"
+license = { text = "MIT" }
 description = "Modular RAG toolkit"
 authors = [
     { name = "Jan Kristanto Wibisono", email = "jan.nctu@gmail.com" }
@@ -25,6 +27,11 @@ where = ["src"]
 
 [project.optional-dependencies]
 test = ["pytest"]
+
+[project.urls]
+"Homepage" = "https://github.com/jannctu/ragkit"
+"Repository" = "https://github.com/jannctu/ragkit"
+"Bug Tracker" = "https://github.com/jannctu/ragkit/issues"
 
 [tool.pytest.ini_options]
 env_files = [".env"]
