@@ -1,5 +1,5 @@
 [project]
-name = "ragkit"
+name = "ragkitx"
 version = "0.1.0"
 description = "Modular RAG toolkit"
 authors = [
