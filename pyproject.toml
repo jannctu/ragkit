@@ -1,6 +1,6 @@
 [project]
 name = "ragkitx"
-version = "0.1.0"
+version = "0.1.1"
 description = "Modular RAG toolkit"
 authors = [
     { name = "Jan Kristanto Wibisono", email = "jan.nctu@gmail.com" }
